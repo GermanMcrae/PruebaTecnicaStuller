@@ -1,0 +1,15 @@
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.csproj.AssemblyReference.cache
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.AssemblyInfoInputs.cache
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.AssemblyInfo.cs
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.csproj.CoreCompileInputs.cache
+C:\proyecto\SantaClausPart1\SantaClausPart1\bin\Debug\net6.0\SantaClausPart1.exe
+C:\proyecto\SantaClausPart1\SantaClausPart1\bin\Debug\net6.0\SantaClausPart1.deps.json
+C:\proyecto\SantaClausPart1\SantaClausPart1\bin\Debug\net6.0\SantaClausPart1.runtimeconfig.json
+C:\proyecto\SantaClausPart1\SantaClausPart1\bin\Debug\net6.0\SantaClausPart1.dll
+C:\proyecto\SantaClausPart1\SantaClausPart1\bin\Debug\net6.0\SantaClausPart1.pdb
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.dll
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\refint\SantaClausPart1.dll
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.pdb
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\SantaClausPart1.genruntimeconfig.cache
+C:\proyecto\SantaClausPart1\SantaClausPart1\obj\Debug\net6.0\ref\SantaClausPart1.dll
